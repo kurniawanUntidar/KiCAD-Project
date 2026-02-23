@@ -5894,6 +5894,26 @@
 		)
 		(uuid "0a9349f9-3c2b-4d73-a896-3f197e4b9bf5")
 	)
+	(label "PC14"
+		(at 189.23 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9a46e8fb-1254-4c95-891d-9866539cbc85")
+	)
+	(label "PC15"
+		(at 189.23 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0286f80-9506-44c3-8091-56f44b92b91d")
+	)
 	(global_label "PB4"
 		(shape input)
 		(at 161.29 134.62 0)
