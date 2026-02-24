@@ -9422,7 +9422,7 @@
 		(dnp no)
 		(uuid "8b92cc11-bb3d-4342-a6b8-0e89139cbd0b")
 		(property "Reference" "J4"
-			(at 129.54 107.696 0)
+			(at 128.016 109.728 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9430,8 +9430,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x20"
-			(at 133.858 110.998 0)
+		(property "Value" "01x20"
+			(at 130.048 112.014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10299,7 +10299,7 @@
 		(dnp no)
 		(uuid "b5620d8d-6239-4666-9553-4b9ce8a25236")
 		(property "Reference" "J5"
-			(at 156.464 108.204 0)
+			(at 155.702 110.236 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10307,8 +10307,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x20"
-			(at 162.052 110.998 0)
+		(property "Value" "01x20"
+			(at 157.734 112.014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
